@@ -1,3 +1,5 @@
 first code add.
 git 教程。
--branch feature-A
+
+add fix-B branch.
+fix-B
